@@ -43,10 +43,6 @@ import '../index.css'
     <img  className='skills-im' src="	https://portfolio-saravanakumarjn.vercel.app/static/media/express.7e85c513.svg"/>
     <p>ExpressJs</p>
 </div>
-<div  className="skills-item" data-aos="fade-right">
-<img  className='skills-im' src="	https://portfolio-saravanakumarjn.vercel.app/static/media/mongodb.153b7b44.svg"/>
-    <p>MongoDB</p>
-</div>
 
 
 <div  className="skills-item" data-aos="fade-right">
