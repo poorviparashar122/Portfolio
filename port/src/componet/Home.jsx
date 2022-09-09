@@ -25,7 +25,7 @@ export const Home = ()=>{
       </h2>
 
       <a
-        href="https://docs.google.com/document/d/1FD4zsOOXEL5pYIDgiX7n_IQ313sJ1nFWT7oNyLncNXw/edit?usp=sharing"
+        href="https://drive.google.com/file/d/1i8JjSDs3KMTHs5i028syK5d5XDRuznJ3/view?usp=sharing"
         target="_blank"
         class="button"
         >Resume</a

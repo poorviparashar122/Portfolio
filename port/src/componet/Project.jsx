@@ -49,7 +49,7 @@ export const Project = ()=>{
                 <a  target="_blank"  data-aos="fade-right" href="https://github.com/poorviparashar122/Dot-and-Key-Skincare" className="projectButton" >
                 Code<i class="bx bxl-github"></i>
                 </a>
-                <a  target="_blank"  data-aos="fade-left" href="https://www.dotandkey.com/" className="projectButton" >
+                <a  target="_blank"  data-aos="fade-left" href="https://dot-and-key.netlify.app/" className="projectButton" >
                 Live<i class="bx bx-link-external"></i>
                 </a>
             </div>
